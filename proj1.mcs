@@ -1,0 +1,110 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.o
+Folder=Intermediary
+DeviceName=PIC18F452
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|exT1.c|i2ceeprom.c|internal_eeprom.c|settings.c||<obj>||<lib>||<lkr>|C:\mcc18\lkr\18f452i.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.o
+Folder=Intermediary
+DeviceName=PIC18F452
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|exT1.c|i2ceeprom.c|internal_eeprom.c|settings.c||<obj>||<lib>||<lkr>|C:\mcc18\lkr\18f452i.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\internal_eeprom.o
+Folder=Intermediary
+DeviceName=PIC18F452
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|exT1.c|i2ceeprom.c|internal_eeprom.c|settings.c||<obj>||<lib>||<lkr>|C:\mcc18\lkr\18f452i.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\settings.o
+Folder=Intermediary
+DeviceName=PIC18F452
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|exT1.c|i2ceeprom.c|internal_eeprom.c|settings.c||<obj>||<lib>||<lkr>|C:\mcc18\lkr\18f452i.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\proj1.cof
+Folder=Output
+DeviceName=PIC18F452
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|exT1.c|i2ceeprom.c|internal_eeprom.c|settings.c||<obj>||<lib>||<lkr>|C:\mcc18\lkr\18f452i.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\proj1.hex
+Folder=Output
+DeviceName=PIC18F452
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|exT1.c|i2ceeprom.c|internal_eeprom.c|settings.c||<obj>||<lib>||<lkr>|C:\mcc18\lkr\18f452i.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\proj1.cod
+Folder=Output
+DeviceName=PIC18F452
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|exT1.c|i2ceeprom.c|internal_eeprom.c|settings.c||<obj>||<lib>||<lkr>|C:\mcc18\lkr\18f452i.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\proj1.lst
+Folder=Output
+DeviceName=PIC18F452
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|exT1.c|i2ceeprom.c|internal_eeprom.c|settings.c||<obj>||<lib>||<lkr>|C:\mcc18\lkr\18f452i.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{96C98149-AA1B-4CF9-B967-FAE79CAB663C}=C:\MCC18\bin\mplink.exe
+tool_loc{E56A1C86-9D32-4DF6-8C34-FE0388B1B644}=C:\MCC18\bin\mcc18.exe

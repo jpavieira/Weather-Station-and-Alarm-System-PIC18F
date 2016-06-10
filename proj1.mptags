@@ -1,0 +1,114 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ABS::(x)((x)>0?(x):-(x))	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	44;"	d	line:44	file:
+ADC_init	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	191;"	f	line:191
+CHANGE_ALARM::4	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	29;"	d	line:29	file:
+CHANGE_ALARM_HOURS::5	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	30;"	d	line:30	file:
+CHANGE_ALARM_LUMINOSITY::9	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	34;"	d	line:34	file:
+CHANGE_ALARM_MINS::6	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	31;"	d	line:31	file:
+CHANGE_ALARM_SECS::7	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	32;"	d	line:32	file:
+CHANGE_ALARM_TEMPERATURE::8	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	33;"	d	line:33	file:
+CHANGE_HOURS::1	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	26;"	d	line:26	file:
+CHANGE_INIT::0	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	25;"	d	line:25	file:
+CHANGE_LUMINOSITY::11	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	36;"	d	line:36	file:
+CHANGE_MINS::2	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	27;"	d	line:27	file:
+CHANGE_SECS::3	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	28;"	d	line:28	file:
+CHANGE_TEMPERATURE::10	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	35;"	d	line:35	file:
+CONSTANTS_H	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\constants.h	2;"	d	line:2
+ClockRoutine	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	177;"	f	line:177	signature:(void)
+ClockRoutine	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	49;"	p	line:49	file:	signature:(void)
+DEFAULT_NREG::40	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\constants.h	4;"	d	line:4
+DEFAULT_PMON::2	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\constants.h	5;"	d	line:5
+DEFAULT_TINA::60	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\constants.h	7;"	d	line:7
+DEFAULT_TSOM::2	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\constants.h	6;"	d	line:6
+DEFAULT_VARL::1	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\constants.h	9;"	d	line:9
+DEFAULT_VART::1	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\constants.h	8;"	d	line:8
+DelayFor18TCY	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	143;"	f	line:143	signature:( void )
+DelayPORXLCD	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	150;"	f	line:150	signature:( void )
+DelayXLCD	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	155;"	f	line:155	signature:( void )
+EnableHighInterrupts	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	138;"	f	line:138	signature:(void)
+I2CEEPROM_H	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.h	2;"	d	line:2
+INTCON_SAVE	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\internal_eeprom.c	9;"	l	line:9
+INTERNAL_EEPROM_H	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\internal_eeprom.h	2;"	d	line:2
+InitializeBuzzer	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	160;"	f	line:160	signature:(void)
+NREG	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	62;"	v	line:62
+PMON	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	63;"	v	line:63
+S2_btn::!PORTAbits.RA4	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	41;"	d	line:41	file:
+S3_btn	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	57;"	v	line:57
+SETTING_H	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\settings.h	2;"	d	line:2
+SoundBuzzer	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	168;"	f	line:168	signature:(char enable)
+SoundBuzzer	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	51;"	p	line:51	file:	signature:(char)
+TIME_ALARM::15	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	40;"	d	line:40	file:
+TINA	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	65;"	v	line:65
+TOGGLE_CLOCK_ALARM::12	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	37;"	d	line:37	file:
+TOGGLE_LUMINOSITY_ALARM::14	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	39;"	d	line:39	file:
+TOGGLE_TEMPERATURE_ALARM::13	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	38;"	d	line:38	file:
+TSOM	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	64;"	v	line:64
+VARL	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	67;"	v	line:67
+VART	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	66;"	v	line:66
+alarm_hour	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	70;"	v	line:70
+alarm_lum	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	70;"	v	line:70
+alarm_min	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	70;"	v	line:70
+alarm_sec	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	70;"	v	line:70
+alarm_temp	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	70;"	v	line:70
+base_addr::0x00	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	9;"	d	line:9	file:
+base_addr::0x00	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\settings.c	10;"	d	line:10	file:
+buffer	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	254;"	l	line:254
+buffer	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	358;"	l	line:358
+buffer	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	17;"	l	line:17
+buffer_int	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	54;"	v	line:54
+buzzer_time	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	74;"	v	line:74
+checkAlarm	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	253;"	f	line:253
+checkAlarm	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	50;"	p	line:50	file:
+checkLumVariation	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	348;"	f	line:348
+checkLumVariation	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	78;"	p	line:78	file:
+checkTempVariation	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	341;"	f	line:341
+checkTempVariation	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	77;"	p	line:77	file:
+current_state	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	47;"	v	line:47
+data	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	119;"	l	line:119
+flag_clock_alarm	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	71;"	v	line:71
+flag_luminosity_alarm	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	73;"	v	line:73
+flag_temperature_alarm	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	72;"	v	line:72
+high_ISR	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	85;"	f	line:85	signature:(void)
+hour	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	53;"	v	line:53
+i	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	72;"	l	line:72
+i2c_EEPROM_read_byte	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	118;"	f	line:118	signature:( unsigned char eeprom_addr_msb, unsigned char eeprom_addr_lsb)
+i2c_EEPROM_read_byte	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.h	8;"	p	line:8	signature:( unsigned char eeprom_addr_msb, unsigned char eeprom_addr_lsb)
+i2c_EEPROM_write_array	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	71;"	f	line:71	signature:(unsigned char buffer[], unsigned int num_bytes, unsigned char eeprom_addr_msb, unsigned char eeprom_addr_lsb)
+i2c_EEPROM_write_array	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.h	7;"	p	line:7	signature:(unsigned char buffer[], unsigned int num_bytes, unsigned char eeprom_addr_msb, unsigned char eeprom_addr_lsb)
+i2c_EEPROM_write_byte	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	32;"	f	line:32	signature:(unsigned char data, unsigned char eeprom_addr_msb, unsigned char eeprom_addr_lsb)
+i2c_EEPROM_write_byte	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.h	6;"	p	line:6	signature:(unsigned char data, unsigned char eeprom_addr_msb, unsigned char eeprom_addr_lsb)
+internal_eeprom_read	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\internal_eeprom.c	40;"	f	line:40	signature:(unsigned char address)
+internal_eeprom_read	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\internal_eeprom.h	8;"	p	line:8	signature:(unsigned char address)
+internal_eeprom_write	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\internal_eeprom.c	8;"	f	line:8	signature:(unsigned char address, unsigned char data)
+internal_eeprom_write	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\internal_eeprom.h	5;"	p	line:5	signature:(unsigned char address, unsigned char data)
+isr	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	76;"	p	line:76	file:	signature:(void)
+isr	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	95;"	f	line:95	signature:(void)
+loadSettings	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\settings.c	33;"	f	line:33
+loadSettings	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\settings.h	17;"	p	line:17	signature:()
+lum	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	54;"	v	line:54
+main	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	357;"	f	line:357	signature:(void)
+min	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	53;"	v	line:53
+page_num	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	14;"	l	line:14
+page_off	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	15;"	l	line:15
+prev_lum	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	56;"	v	line:56
+prev_temp	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	56;"	v	line:56
+read_trigger	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	53;"	v	line:53
+refresh_lcd	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	53;"	v	line:53
+reg_buffer_pos	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	11;"	v	line:11
+reg_buffer_pos	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	27;"	l	line:27
+sec	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	53;"	v	line:53
+storeSettings	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\settings.c	21;"	f	line:21
+storeSettings	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\settings.h	16;"	p	line:16	signature:()
+tc74	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	210;"	f	line:210	signature:(void)
+temp	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	55;"	v	line:55
+user_activity_flag	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	53;"	v	line:53
+value	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\exT1.c	211;"	l	line:211
+writeToRingBuffer	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.c	13;"	f	line:13	signature:(unsigned char h, unsigned char m, unsigned char s, unsigned char T, unsigned char L)
+writeToRingBuffer	B:\Dropbox\EE\Mestrado\SCE\SCE-Partilha\Parte 1\SCE_75438_84833_72644\SCE_parte1\i2ceeprom.h	5;"	p	line:5	signature:(unsigned char h, unsigned char m, unsigned char s, unsigned char T, unsigned char L)
